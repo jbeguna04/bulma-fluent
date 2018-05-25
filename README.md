@@ -6,7 +6,7 @@ Fluent Design Theme for [Bulma](http://bulma.io), inspired by [Microsoft’s Flu
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="42">
 </a>
 
-[![NPM](https://nodei.co/npm/bulma-fluent.png?compact=true)](https://nodei.co/npm/bulma-fluent/)
+[![NPM](https://nodei.co/npm/bulma-fluent.png?compact=true)](https://nodei.co/npm/bulma-fluent/) [![Greenkeeper badge](https://badges.greenkeeper.io/mubaidr/bulma-fluent.svg)](https://greenkeeper.io/)
 
 ![dependencies](https://david-dm.org/mubaidr/bulma-fluent.svg)
 
